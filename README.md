@@ -3,10 +3,8 @@
 The CAD model of a project with my friends. We designed a new product for LEGO as part of the Hult Challenge: A pop-up NinjaGo café called The Crossroads.
 
 <img width="1426" height="1103" alt="The Crossroads Cafe" src="https://github.com/user-attachments/assets/1cdb473c-b26d-4370-8eae-59e9f4172c47" />
-The final cafe design (decorations and wall art added on procreate)
 
-<img width="792" height="641" alt="Capture d’écran 2026-11-21 à 12 57 08 PM" src="https://github.com/user-attachments/assets/6bc4f557-4d4b-4ec7-a696-f435b2c25d7d" />
-Full model
+The final cafe design (decorations and wall art added on procreate)
 
 ### Features
 
@@ -19,13 +17,24 @@ The model include:
 - Movie corner with beanbags
 - Coffee prep area, kitchen, and cashier counter for the staff
 
+### Images
+
+<img width="792" height="641" alt="Capture d’écran 2026-11-21 à 12 57 08 PM" src="https://github.com/user-attachments/assets/6bc4f557-4d4b-4ec7-a696-f435b2c25d7d" />
+
+Full model
+
 <img width="669" height="506" alt="Capture d’écran 2026-11-21 à 12 58 51 PM" src="https://github.com/user-attachments/assets/943eca8b-81df-4372-9fe1-14ae0568ead3" />
+
 Main seating area + kitchen
 
+
 <img width="518" height="536" alt="Capture d’écran 2026-11-21 à 12 58 25 PM" src="https://github.com/user-attachments/assets/a922e731-04fb-4671-a6b5-a25367577c16" />
+
 Movie corner
 
+
 <img width="585" height="533" alt="Capture d’écran 2026-11-21 à 12 59 31 PM" src="https://github.com/user-attachments/assets/5c5b882c-9a1f-4090-8279-bf1d54ddf778" />
+
 Merchandise corner and entrance
 
 ### Accessing the Model
