@@ -1,6 +1,6 @@
 ## NinjaGo Café : The Crossroads
 
-The CAD model of a project with my friends. We designed a new product for LEGO as part of the Hult Challenge: A pop-up NinjaGo café called The Crossroads.
+The CAD model of a project with my friends. We designed a new product for LEGO as part of the Hult Challenge: A pop-up NinjaGo café called The Crossroads. My friends worked on the business model, menu, and target audience research, while I was in charge of the CAD model.
 
 <img width="1426" height="1103" alt="The Crossroads Cafe" src="https://github.com/user-attachments/assets/1cdb473c-b26d-4370-8eae-59e9f4172c47" />
 
